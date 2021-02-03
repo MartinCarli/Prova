@@ -1,3 +1,4 @@
+#inizio
 
 from esame import Diff, ExamException
 
@@ -114,4 +115,7 @@ class TestAndGrade(unittest.TestCase):
 # Run the tests
 unittest.main()
 
+<<<<<<< HEAD
 #fine
+=======
+>>>>>>> e52ff160090236c05c255ff46c3b19605193c069
