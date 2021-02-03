@@ -1,4 +1,4 @@
-#1 parte 
+#1 parte1
 #rifaccio l eser - studenti
 
 #definisco la classe persona e la inizializzo
@@ -43,6 +43,8 @@ obj_Mario = Studente("Mario", "Rossi", ("Programmazione", "Laboratorio di Progra
 obj_Mario.bonjur()
 
 obj_ProfRusso = Docente("Stefano Alberto", "Russo", ("Programmazione", "Laboratorio di Programmazione"))
+
 obj_ProfRusso.bonjur()
 
 #ora dovrei iniziare la seconda parte
+
