@@ -1,3 +1,4 @@
+#inizio
 
 class ExamException(Exception):
     pass
